@@ -1,5 +1,5 @@
-Pneumonia Detection from Chest X-Rays using ResNet18
-📝 Project Overview
+**Pneumonia Detection from Chest X-Rays using ResNet18
+**📝 Project Overview
 This repository contains a Deep Learning pipeline designed to automate the detection of Pneumonia from chest X-ray images. By leveraging Transfer Learning with the ResNet18 architecture, the model aims to provide a rapid diagnostic tool to support clinical decision-making.
 
 📊 Dataset
